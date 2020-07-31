@@ -11,7 +11,7 @@ Contributions to the guide (and the rest of the documentation are
 Control System
 --------------
 
-If you are "just" retheaming a machine have a look at the
+If you are "just" retheming a machine have a look at the
 :doc:`existing` section.
 If you want to use MPF to power a new *custom* pinball machine that you build
 yourself, you should buy new custom driver boards.
